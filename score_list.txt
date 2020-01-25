@@ -1,0 +1,4 @@
+[{"attempts": 7, "date": "2019-10-29 22:25:43.813870", "player_name": "lu"},
+{"attempts": 5, "date": "2019-10-29 22:26:05.177406", "player_name": "lu"},
+{"attempts": 6, "date": "2019-10-29 22:26:27.531189", "player_name": "lu"},
+{"attempts": 4, "date": "2019-10-29 22:26:44.826518", "player_name": "lu"}]
